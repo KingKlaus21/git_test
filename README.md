@@ -1,2 +1,3 @@
 # git_test
-My first githib repo :)
+My first githib repo!
+Hello Odin!
